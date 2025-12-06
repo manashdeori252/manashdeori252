@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Manash Protim Deori</h1>
+<h1 align="center">Hi there</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Manash Protim Deori<br><br>- 🔭 I’m working as a Business Analyst at Crest AI.<br>- 📚 Currently, as a business analyst I take full accountability of automating the supply chain operation of various clients <br>- ⚡ In my free time I explore data from different domains </p>
 
 ###
 
