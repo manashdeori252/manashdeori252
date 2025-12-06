@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </a>
 
+ <a href="https://drive.google.com/file/d/1JiGtY3XYAPxpJFhyzq9FLe9LEHC1EXj_/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Resume&logo=files&label=&color=0E6DFD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
+</a>
 
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
