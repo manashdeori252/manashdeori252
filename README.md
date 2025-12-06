@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://www.jsdelivr.com/package/npm/@programming-languages-logos/python)" height="40" alt="go logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://www.jsdelivr.com/package/npm/@programming-languages-logos/python)](https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png)" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
