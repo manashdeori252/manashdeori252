@@ -3,16 +3,21 @@
 </h1>
 
 <p align="center">
-  <b>Goal is to turn raw data into information</b>
+  <b>Goal is to extract meaningful insights from raw data </b>
 </p>
 
 <div align="center">
   <img
-    src="https://illustrations.popsy.co/teal/data-analysis.svg"
-    alt="data analyst illustration"
-    width="500"
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="450"
+    alt="coding gif"
   />
 </div>
+
+
+
+
+
 
 <br/>
 
