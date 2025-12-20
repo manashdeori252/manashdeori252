@@ -1,76 +1,93 @@
+<h1 align="center">
+  Hi 👋, I'm Manash Protim Deori
+</h1>
+
+<p align="center">
+  <b>Goal is to turn raw data into information</b>
+</p>
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img
+    src="https://illustrations.popsy.co/teal/data-analysis.svg"
+    alt="data analyst illustration"
+    width="500"
+  />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manash-deori/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
- <a href="https://manash-deori-portfolio.lovable.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-</a>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="linkedin"
+    />
+  </a>
 
- <a href="https://drive.google.com/file/d/1JiGtY3XYAPxpJFhyzq9FLe9LEHC1EXj_/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Resume&logo=files&label=&color=0E6DFD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
-</a>
+  <a href="https://github.com/manash-deori" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="github"
+    />
+  </a>
 
+  <a href="https://manash-deori-portfolio.lovable.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white"
+      alt="portfolio"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1JiGtY3XYAPxpJFhyzq9FLe9LEHC1EXj_/view?usp=sharing" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Resume-0E6DFD?style=for-the-badge&logo=files&logoColor=white"
+      alt="resume"
+    />
+  </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<h1 align="center">Welcome to My Space on GitHub 🚀</h1>
+- 📫 How to reach me **manashprotim252@gmail.com**
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🧑‍💻 Programming Skills
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-<p align="left">I'm Manash Protim Deori<br><br>- 🔭 I’m working as a Business Analyst at Crest AI.<br>- 📚 Currently, as a business analyst I take full accountability of automating the supply chain operation of various clients <br>- ⚡ In my free time I explore data from different domains </p>
+---
 
-###
+## 📊 Analytics
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
- 
+## 🛠 Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
+---
 
+## 🧰 IDE & Office Tools
 
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
